@@ -1,0 +1,7 @@
+
+python version 3.6.4
+
+爬虫学习
+
+requests是一个很实用的Python HTTP客户端库，编写爬虫和测试服务器响应数据时经常会用到。
+可以说，Requests 完全满足如今网络的需求
